@@ -1,1 +1,57 @@
- 
+ #header {
+  height: 20%;
+  width: inherit;
+  background-color: #d9d9d9;
+}
+
+#container {
+  height: 50%;
+  width: 50%;
+  margin: auto;
+  background-color: white;
+
+}
+
+#pe {
+  background-color: #ff1a1a;
+}
+
+#ke {
+  background-color: #1a75ff;
+}
+
+#me {
+  background-color: #8c1aff;
+}
+
+#footer {
+  height: 30%;
+  width: inherit;
+  background-color: #d9d9d9;
+}
+
+.bar {
+  height: 400px;
+  width: 200px;
+  float: left;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  background-color: white;
+}
+
+button {
+    height: 100px;
+    margin: auto;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 0.5em;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1em;
+}
+
